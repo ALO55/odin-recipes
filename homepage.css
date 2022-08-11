@@ -1,0 +1,51 @@
+body {
+    background-color:rgb(252, 183, 79);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 60px;
+}
+
+p {
+    color: black;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.sushi {
+    margin-left: 200px; 
+}
+
+.lasagna {
+    margin-left: 500px;
+}
+
+.french-toast {
+    margin-left: 625px;
+}
+
+img {
+    width:320px;
+    height: 320px;
+}
+
+.sushi-img {
+    margin-left: 100px;
+}
+
+.lasagna-img {
+    margin-left: 280px;
+}
+
+.french-toast-img {
+    margin-left: 415px;
+}
+
+button {
+    margin-left: 800px;
+    margin-top: 400px;
+    text-align: center;
+    font-size: xx-large;
+}
